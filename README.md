@@ -12,3 +12,15 @@ After compilation, run the executable file with the command
 ```bash
 ./run
 ```
+
+## Input/Output
+#### Input
+```
+This is an implementation of the unification algorithm.
+Please enter the first expression: f(f(X,Y),X)
+Please enter the second expression: f(f(V,U),g(U,Y))
+```
+#### Output
+```
+The unifier is: X = V, Y = U, V = g(U,U)
+```
