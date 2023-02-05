@@ -22,5 +22,5 @@ Please enter the second expression: f(f(V,U),g(U,Y))
 ```
 #### Output
 ```
-The unifier is: X = V, Y = U, V = g(U,U)
+The unifier is: X=V, Y=U, V=g(U,U)
 ```
