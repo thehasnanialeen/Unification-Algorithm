@@ -1,6 +1,9 @@
 # Unification-Algorithm
 This is an implementation of Unification Algorithm in C++
 
+## What is Unification?
+To apply the inference rules, an inference system must know if two expressions are same. Sometimes, two terms are not same but we can find substitution (or unifier) that make both terms the same. This process is called unification.
+
 There are a lot of implementation of Unification Algorithm written in different languages, but I could not find one written in C++. So, I have written one here.
 
 ## Compiling and running the program
